@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ismaïl-Ayoub El Gote
 
-**Data & AI Engineer** in Paris — I build and run **LLM agents in production**, wired into real CRMs, ERPs, telephony and databases. Currently at [Meet My Mama](https://meetmymama.com), where I operate the full data & AI stack: agent workflows, BI on Postgres, and the guardrails that keep agents from breaking things.
+**Data & AI Engineer** in Paris — I put **LLMs to work in production**: routing calls, cleaning CRMs, writing to real databases. Currently at [Meet My Mama](https://meetmymama.com), where I operate the full data & AI stack — LLM workflows, BI on Postgres, and the guardrails that keep automation from breaking things.
 
 Trained at **Télécom Saint-Étienne** 🇫🇷 × **Toyohashi University of Technology** 🇯🇵
 
