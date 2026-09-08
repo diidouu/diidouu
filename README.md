@@ -23,6 +23,9 @@ Trained at **Télécom Saint-Étienne** 🇫🇷 × **Toyohashi University of Te
 - **[CS229 — ML from Scratch](https://github.com/diidouu/ML-FOUNDATION-CS229-STANFORD)** — Stanford's ML problem sets in pure NumPy: manual backprop, GDA, kernelized SVM, GMM/EM, ICA, RL
 - **[EKF-SLAM](https://github.com/diidouu/SLAM-PROJECT)** — Simultaneous Localization & Mapping with an Extended Kalman Filter, no SLAM library (Toyohashi, Japan)
 
+### 🔐 Security × ML
+- **[credential-stuffing-gae](https://github.com/diidouu/credential-stuffing-gae)** — Detecting credential stuffing in real production auth logs with Graph Auto-Encoders: user/IP/UA modeled as a heterogeneous graph, anomalies scored by reconstruction error (AUC 0.93). Data stays private; the method is all here.
+
 ### 📡 Signal processing
 - **[EEG-Analysis](https://github.com/diidouu/EEG-Analysis)** — Auditory lateralization pipeline with MNE-Python: ICA artifact removal, Morlet time-frequency, ERP extraction
 
