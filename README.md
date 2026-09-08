@@ -7,7 +7,7 @@ Trained at **Télécom Saint-Étienne** 🇫🇷 × **Toyohashi University of Te
 🌐 [elgote.com](https://elgote.com) · 💼 [LinkedIn](https://www.linkedin.com/in/elgote)
 
 <p>
-  <img src="https://github-readme-stats-diidouus-projects.vercel.app/api?username=diidouu&show_icons=true&count_private=true&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats-diidouus-projects.vercel.app/api?username=diidouu&show_icons=true&hide_border=true&v=2" height="160" alt="GitHub stats" />
   <img src="https://github-readme-stats-diidouus-projects.vercel.app/api/top-langs/?username=diidouu&layout=compact&hide=jupyter%20notebook&hide_border=true" height="160" alt="Top languages" />
 </p>
 
